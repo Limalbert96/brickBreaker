@@ -1,7 +1,7 @@
 # brickBreaker
 
 ## DESCRIPTION
-Brick breaker made in C as part of CS 2110 GBA project
+Brick breaker game programmed in C as part of CS 2110 GBA project
 
 ## INSTRUCTION
 
